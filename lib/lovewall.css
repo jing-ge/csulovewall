@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-25 15:36:11
+ * @version $Id$
+ */
+.yy{
+	box-shadow: 10px 10px 5px #888888 !important;
+}
